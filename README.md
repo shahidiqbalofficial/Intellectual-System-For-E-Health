@@ -1,8 +1,30 @@
-##Fyp-Project
+## Fyp-Project
+### Intellectual System For E-Health
+<p align="center">
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.49 PM (1).jpeg" width="200" />
+  <img src="screen/WhatsApp Image 2023-11-26 at 2.00.47 PM.jpeg" width="200" />
+  <img src="screen/WhatsApp Image 2023-11-26 at 2.00.48 PM (1).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.48 PM.jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.49 PM.jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.49 PM (2).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.50 PM (1).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.50 PM (2).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.51 PM (1).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.51 PM.jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.52 PM (1).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.52 PM.jpeg" width="200" />
+   <img src="screenWhatsApp Image 2023-11-26 at 2.00.52 PM (2).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.53 PM (1).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.53 PM.jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.54 PM (1).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.54 PM (2).jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.54 PM.jpeg" width="200" />
+   <img src="screen/WhatsApp Image 2023-11-26 at 2.00.55 PM.jpeg" width="200" />
+</p>
 
-###Intellectual System For E-Health
 
-##Conclusion
+
+## Conclusion
 
 The E-Health app system has the potential to significantly improve the lives of its users by providing them with convenient and personalized access to a variety of healthcare services. The symptom-based disease prediction model, diabetes disease prediction model, and heart disease prediction model can help users identify potential health problems early on and get the care they need. The app also provides users with information on diet, health, exercise, first aid, emergencies, and medicine tabs. This information can help users make informed decisions about their health and well-being.
 
